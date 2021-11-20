@@ -1,0 +1,7 @@
+#Mon Oct 18 10:16:09 ICT 2021
+base.1=E\:\\Online-Self-Learning\\CouseraCourse\\Java-for-Android\\Week 1\\m3-shapes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=E\:\\Online-Self-Learning\\CouseraCourse\\Java-for-Android\\Week 1\\m3-shapes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
